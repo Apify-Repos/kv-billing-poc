@@ -9,7 +9,9 @@ Since we are testing external data transfer, you have to run this from local mac
 Please provide 3 inputs :
 
 `remote` : Name of remote KV you want to use. e.g. `kv-billing-poc`
+
 `action` : Whether you want to perform `upload` action or `download` action
+
 `threads`: How many parallel thread you want to run. Keeping it `10` is nice!
 
 ## Observation
