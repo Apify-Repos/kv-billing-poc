@@ -1,6 +1,6 @@
 # Apify KV Billing Bug POC
 
-This POC is to confirm that osmething is wrong with Apify KV billing when it comes to extrenal data transfer.
+This POC is to confirm that something is wrong with Apify KV billing when it comes to extrenal data transfer.
 
 ## How to run
 
